@@ -1,5 +1,5 @@
 # my_repo
-👩‍💻 About Me
+👩‍💻 About Me:
 Hi there! I'm Shumaila, a 20-year-old student currently pursuing a Bachelor's degree in Mathematics. While numbers are my first love, I've also developed a strong interest in technology and design — because why not mix logic with a little creativity?
 
 My journey into the world of tech began with a computer course certification, and ever since then, I've been building skills that make me feel both smart and unstoppable! I’ve learned several programming languages like HTML, CSS, Java, and Python — and yes, I enjoy writing clean code that does cool things. 💻✨
